@@ -1,0 +1,1 @@
+/Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter3/hello_world/target/debug/hello_world: /Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter3/hello_world/src/main.rs

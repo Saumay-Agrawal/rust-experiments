@@ -1,0 +1,10 @@
+/Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter3/hello_world/target/debug/deps/regex_syntax-79863d171c7a7e09.d: /Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/lib.rs /Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/literals.rs /Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/parser.rs /Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/unicode.rs
+
+/Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter3/hello_world/target/debug/deps/libregex_syntax-79863d171c7a7e09.rlib: /Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/lib.rs /Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/literals.rs /Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/parser.rs /Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/unicode.rs
+
+/Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter3/hello_world/target/debug/deps/libregex_syntax-79863d171c7a7e09.rmeta: /Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/lib.rs /Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/literals.rs /Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/parser.rs /Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/unicode.rs
+
+/Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/lib.rs:
+/Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/literals.rs:
+/Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/parser.rs:
+/Users/saumay/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/regex-syntax-0.3.9/src/unicode.rs:
