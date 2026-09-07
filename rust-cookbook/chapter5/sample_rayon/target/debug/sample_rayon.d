@@ -1,0 +1,1 @@
+/Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter5/sample_rayon/target/debug/sample_rayon: /Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter5/sample_rayon/src/main.rs
