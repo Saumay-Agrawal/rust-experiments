@@ -1,0 +1,23 @@
+name: Todo CLI
+on:
+  push:
+    paths: ['todo-cli/**', '.github/workflows/todo-cli.yml']
+  pull_request:
+    paths: ['todo-cli/**', '.github/workflows/todo-cli.yml']
+jobs:
+  test:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    defaults:
+      run:
+        working-directory: todo-cli
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          components: rustfmt, clippy
+      - run: cargo fmt --check
+      - run: cargo clippy --locked --all-targets --all-features -- -D warnings
+      - run: cargo test --locked

@@ -1,0 +1,1 @@
+/Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter8/rust-to-c/target/debug/rust-to-c: /Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter8/rust-to-c/build.rs /Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter8/rust-to-c/src/main.rs

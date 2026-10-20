@@ -1,0 +1,35 @@
+TARGET = Some("aarch64-apple-darwin")
+OPT_LEVEL = Some("0")
+TARGET = Some("aarch64-apple-darwin")
+HOST = Some("aarch64-apple-darwin")
+TARGET = Some("aarch64-apple-darwin")
+TARGET = Some("aarch64-apple-darwin")
+HOST = Some("aarch64-apple-darwin")
+CC_aarch64-apple-darwin = None
+CC_aarch64_apple_darwin = None
+HOST_CC = None
+CC = None
+HOST = Some("aarch64-apple-darwin")
+TARGET = Some("aarch64-apple-darwin")
+HOST = Some("aarch64-apple-darwin")
+CFLAGS_aarch64-apple-darwin = None
+CFLAGS_aarch64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("true")
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-Wall" "-Wextra" "-o" "/Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter8/rust-to-c/target/debug/build/rust-to-c/dd9e3264c319a75d/out/src/double.o" "-c" "src/double.c"
+exit status: 0
+TARGET = Some("aarch64-apple-darwin")
+TARGET = Some("aarch64-apple-darwin")
+HOST = Some("aarch64-apple-darwin")
+AR_aarch64-apple-darwin = None
+AR_aarch64_apple_darwin = None
+HOST_AR = None
+AR = None
+TARGET = Some("aarch64-apple-darwin")
+TARGET = Some("aarch64-apple-darwin")
+running: "ar" "crs" "/Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter8/rust-to-c/target/debug/build/rust-to-c/dd9e3264c319a75d/out/libdouble.a" "/Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter8/rust-to-c/target/debug/build/rust-to-c/dd9e3264c319a75d/out/src/double.o"
+exit status: 0
+TARGET = Some("aarch64-apple-darwin")
+cargo:rustc-link-lib=static=double
+cargo:rustc-link-search=native=/Users/saumay/Workspace/gh-saumay/rust-experiments/rust-cookbook/chapter8/rust-to-c/target/debug/build/rust-to-c/dd9e3264c319a75d/out
